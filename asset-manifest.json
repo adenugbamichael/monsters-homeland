@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//adenugbamichael.github.io/monsters-homeland/static/css/main.6fc22441.chunk.css",
+    "main.js": "/https//adenugbamichael.github.io/monsters-homeland/static/js/main.6d71e0be.chunk.js",
+    "main.js.map": "/https//adenugbamichael.github.io/monsters-homeland/static/js/main.6d71e0be.chunk.js.map",
+    "runtime-main.js": "/https//adenugbamichael.github.io/monsters-homeland/static/js/runtime-main.efbd8521.js",
+    "runtime-main.js.map": "/https//adenugbamichael.github.io/monsters-homeland/static/js/runtime-main.efbd8521.js.map",
+    "static/js/2.030e69fd.chunk.js": "/https//adenugbamichael.github.io/monsters-homeland/static/js/2.030e69fd.chunk.js",
+    "static/js/2.030e69fd.chunk.js.map": "/https//adenugbamichael.github.io/monsters-homeland/static/js/2.030e69fd.chunk.js.map",
+    "static/js/3.ea34c211.chunk.js": "/https//adenugbamichael.github.io/monsters-homeland/static/js/3.ea34c211.chunk.js",
+    "static/js/3.ea34c211.chunk.js.map": "/https//adenugbamichael.github.io/monsters-homeland/static/js/3.ea34c211.chunk.js.map",
+    "index.html": "/https//adenugbamichael.github.io/monsters-homeland/index.html",
+    "static/css/main.6fc22441.chunk.css.map": "/https//adenugbamichael.github.io/monsters-homeland/static/css/main.6fc22441.chunk.css.map",
+    "static/js/2.030e69fd.chunk.js.LICENSE.txt": "/https//adenugbamichael.github.io/monsters-homeland/static/js/2.030e69fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efbd8521.js",
+    "static/js/2.030e69fd.chunk.js",
+    "static/css/main.6fc22441.chunk.css",
+    "static/js/main.6d71e0be.chunk.js"
+  ]
+}
